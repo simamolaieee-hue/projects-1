@@ -1,0 +1,150 @@
+
+.di0{
+    width: 100%;
+    height: 2100px;
+    background-color: #F8D0D7;
+    display: block;
+}
+@media(max-wi)
+.di1{
+    width: 100%;
+    height: 200px;
+    background-image: url(colored-background2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+}
+.di1 img{
+    width: 60px;
+    height: 60px;
+}
+.di1 ul{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 35px;
+    text-align: center;
+}
+li{
+    background-color: rgb(221, 243, 243);
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    list-style: none;
+}
+ .di1 h1{
+     display: flex; 
+     justify-content: center;
+     margin-bottom: 50PX;
+}
+.dih{
+    width: 100%;
+    height:70px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10PX;
+}
+.di2{
+   width: 100%; 
+   height: 300px;
+   background-color: antiquewhite;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   gap: 10px;
+}
+.di2 img{  
+    width: 35%;
+    height:290px;
+    border-radius: 6px;
+} 
+.diin input{
+    width: 210px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid brown;
+}
+.diin button{
+    width: 30px;
+    height: 40px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+.im1{
+    width: 100%;
+    height: 100%;
+}
+.diin{
+    width: 100%;
+    height: 50px;
+    /* background-color: rgb(232, 247, 247); */
+    display: flex;
+    justify-content: end;
+}
+.di3{
+    width: 100%;
+    height: 300px;
+    background-color: #ACF4E6;
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 8px;
+}
+.di3 img{
+    width:100% ;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.dich{
+    display: flex;
+    justify-content: end;
+}
+.di3 div{
+    width: 40%;
+    height: 200px;
+    flex-direction: column;
+    text-align: center;
+}
+.di4{
+    width: 100%;
+    height: 300px;
+    background-color:#ACF4E6;
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+.di4 img{
+    width: 350px;
+    height: 200px;
+}
+.DIGU{
+    display: flex;
+    justify-content: end;
+}
+.di5{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    height: 300px;
+    background-color: #ACF4E6;
+}
+.di5  img{
+    width: 280px;
+    height: 200px;
+}
+.DIDI {
+    display: flex;
+    justify-content: end;
+}
+.di6{
+    width: 450px;
+    height: 150px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
